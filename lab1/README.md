@@ -1,6 +1,6 @@
 # _ik31_lab_1
 Картина для 10 завдання
-![alt text](https://github.com/VladyslavSembai/IK-31_Sembay_Devops-/blob/main/lab1/img.png)
+![alt text](https://github.com/VladyslavSembai/VladyslavSembai-IK-31_Sembay_Devops--/blob/main/lab1/img.png)
 #1
 Я сколнував гіт командою 
 ```Shell script
