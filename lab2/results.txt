@@ -1,0 +1,16 @@
+============================= test session starts ==============================
+platform linux -- Python 3.8.10, pytest-6.2.5, py-1.11.0, pluggy-1.0.0
+rootdir:  vlad-VirtualBox:/home/vlad/lab
+collected 5 items
+
+tests/tests.py .....                                                     [100%]
+
+============================== 5 passed in 0.69s ===============================
+========================================
+Результат без параметрів: 
+No URL passed to function
+========================================
+Результат з правильною URL: 
+Time is:  02:29:32 PM
+Date is:  12-07-2021
+success
