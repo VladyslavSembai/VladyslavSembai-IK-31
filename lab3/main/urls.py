@@ -5,3 +5,4 @@ urlpatterns = [
     path('', views.main, name='main'),
     path('health/', views.health, name='health')
 ]
+
