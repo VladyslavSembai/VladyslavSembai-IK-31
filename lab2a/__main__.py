@@ -36,3 +36,4 @@ if __name__ == '__main__':
     common.Pair(True)
     common.Pair(False)
     common.TwoDivideOn(0)
+    
