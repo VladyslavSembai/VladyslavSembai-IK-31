@@ -39,3 +39,4 @@ deploy:
 	git add results.txt
 	git commit -m "Automatic commit by MakeFile"
 	git push
+
