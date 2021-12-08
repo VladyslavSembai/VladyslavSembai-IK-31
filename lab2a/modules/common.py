@@ -40,3 +40,5 @@ def view_array():
     else:
     	logging.info("Ви ввели коректні дані")
     	
+
+        
