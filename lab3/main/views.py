@@ -17,3 +17,5 @@ def health(request):
     'client_info': f"Browser: {request.META['HTTP_USER_AGENT']}  IP: {request.META['REMOTE_ADDR']} "
     }
     return JsonResponse(response)
+
+
