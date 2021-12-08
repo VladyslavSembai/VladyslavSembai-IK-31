@@ -42,3 +42,4 @@ with open("README.md", "r") as file:
 # 2.6 Виводжу результат роботи з `lambdas` за допомогою команд:
 Point = lambda x,y:(f'Точка:{x},{y}')
 print(Point(1,5))
+
