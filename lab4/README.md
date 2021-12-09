@@ -102,7 +102,7 @@ vlad@vlad-VirtualBox:~$
 ```
 Команда щоб залогінитись `docker login -u "vlad5841" -p "**********" docker.io`
 Команда для завантаження на власний репозеторій `docker push vlad5841/lab4:django`.
-Посилання на мій [`Docker Hub`](https://cloud.docker.com/repository/registry-1.docker.io/vlad5841/lab4) репозиторій та посилання на [`імедж`](https://hub.docker.com/layers/180733569/baracuda794/lab4/django/images/sha256-ecf68ab2630d91fee7d4b47d73ec0bb966825f439209629956644266cee98376?context=repo).
+Посилання на мій [`Docker Hub`](https://cloud.docker.com/repository/registry-1.docker.io/vlad5841/lab4) репозиторій та посилання на [`імедж`](https://hub.docker.com/layers/181552450/vlad5841/lab4/django/images/sha256-2e0aadd7dc92dfc138d4926ede8513fdf38c3f7db1a1c69bdc472e9753f8b13d?context=repo).
 #### 7. Для запуску веб-сайту виконав команду `sudo docker run -it --name=django --rm -p 8000:8000 baracuda794/lab4:django`:
 ```text
 vlad@vlad-VirtualBox:~$ sudo docker run -it --name=django --rm -p 8000:8000 vlad5841/lab4:django
