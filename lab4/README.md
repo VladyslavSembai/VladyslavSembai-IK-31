@@ -187,3 +187,4 @@ Quit the server with CONTROL-C.
     KeyboardInterrupt
 ```
 4. ##### Закомітив `Dockerfile.site` та результати роботи програми моніторингу запущеної з `Docker` контейнера.
+
