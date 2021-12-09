@@ -5,3 +5,4 @@ INFO 2021-12-05 11:14:04,433 root : Ключ: date, Значення: Time: 11:1
 INFO 2021-12-05 11:14:04,438 root : Ключ: current_page, Значення: localhost:8000/health/
 INFO 2021-12-05 11:14:04,438 root : Ключ: server_info, Значення: Name_OS: Linux;   Name_Node: ed2728b4f48a;   Release: 5.11.0-41-generic;   Version: #45~20.04.1-Ubuntu SMP Wed Nov 10 10:20:10 UTC 2021;   Indentificator:x86_64
 INFO 2021-12-05 11:14:04,438 root : Ключ: client_info, Значення: Browser: python-requests/2.26.0;   IP: 172.17.0.1
+
