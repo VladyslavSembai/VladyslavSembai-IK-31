@@ -30,3 +30,4 @@ def test_logs(url):
 def test_main_page(url):
     response = requests.get(url)
     assert 'You are at main page.' in response.text, 'Main page without text'
+ 
