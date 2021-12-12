@@ -17,3 +17,4 @@ RUN pipenv install -r requirements.txt
 COPY tests/ ./
 
 ENTRYPOINT pipenv run pytest test_app.py --url http://app:5000
+
