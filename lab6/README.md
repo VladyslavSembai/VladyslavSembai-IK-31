@@ -112,6 +112,7 @@ exit 0
 ```sh
 #!/bin/bash
 set -ev
+
 nohup pipenv run server > ./ci-build.log &
 nohup pipenv run python monitoring.py || true &
 exit 0
