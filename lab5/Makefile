@@ -26,3 +26,4 @@ PushToDocker:
 	@docker login \
 	&& docker push $(REPO):app \
 	&& docker push $(REPO):tests
+
